@@ -1,3 +1,25 @@
+# idea
+.idea
+*.iml
+out
+
+# Eclipse
+.settings
+.project
+.classpath
+/target/*
+
+# common
+*.class
+
+# project
+!src
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
 # Compiled class file
 *.class
 
