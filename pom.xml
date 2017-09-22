@@ -17,14 +17,15 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-  		<shop.version>1.0.0-SNAPSHOT</shop.version>
-  		<lombok.version>1.16.18</lombok.version>
+		<shop.version>1.0.0-SNAPSHOT</shop.version>
+		<lombok.version>1.16.18</lombok.version>
 	</properties>
-	
+
 	<modules>
 		<module>shop-web</module>
 		<module>shop-service</module>
 		<module>shop-dal</module>
 		<module>shop-shared</module>
 	</modules>
+	
 </project>

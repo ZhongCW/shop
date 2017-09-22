@@ -6,6 +6,13 @@ import java.util.Properties;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 
+/**
+ * 外部文件
+ * 
+ * @author zcw
+ * @createTime 2017年9月20日
+ * @lastUpdateTime 2017年9月20日
+ */
 public class ResourceRead
 {
 	private static final Properties properties = new Properties();
