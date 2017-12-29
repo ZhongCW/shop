@@ -31,5 +31,6 @@ public class ResourceRead
 			e.printStackTrace();
 		}
 		return properties.getProperty(paramName);
+		
 	}
 }
